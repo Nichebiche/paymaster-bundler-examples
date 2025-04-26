@@ -9,7 +9,7 @@
     "@zerodev/sdk": "^5.4.3",
     "permissionless": "^0.2.22",
     "tslib": "^2.8.1",
-    "viem": "^2.21.54"
+    "viem": "^2.25.0"
   },
   "scripts": {
     "dev": "node src/index.js"
