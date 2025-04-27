@@ -8,7 +8,7 @@
     "@alchemy/aa-core": "^3.1.1",
     "axios": "^1.6.7",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.8.3"
   },
   "scripts": {
     "dev": "node src/mint.js"
