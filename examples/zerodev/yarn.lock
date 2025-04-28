@@ -91,10 +91,10 @@ ox@0.1.2:
     abitype "^1.0.6"
     eventemitter3 "5.0.1"
 
-permissionless@^0.2.22:
-  version "0.2.22"
-  resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.2.22.tgz#77253208cdbdce7f2b519895146e519743952db4"
-  integrity sha512-6pyXxSXomHXmCgwST4/MM0CM3ISBhj8R0Il+g46RlDOZgVOWwwQxaVmbbg7vZBNulIg5PYFjVaFCNISc2Ia2uA==
+permissionless@^0.2.39:
+  version "0.2.43"
+  resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.2.43.tgz#cf188b3d515c6b2fcc9163dc2f2378a8071cf2d8"
+  integrity sha512-ZZHNLTutdRXmDmBc9/NEd7mAdQZzxJeF0FJK/8jqW8c8KW/KhqwHw5/ESvhUjZKq2Q1Gk010hS2UvTceVaL6Bg==
 
 semver@^7.6.0:
   version "7.6.3"
